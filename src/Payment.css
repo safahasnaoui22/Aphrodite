@@ -1,0 +1,54 @@
+.payment {
+    background-color: white;
+}
+
+.payment__container>h1 {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(234, 237, 237);
+    border-bottom: 1px solid lightgray;
+}
+
+.payment__container>h1 a {
+    text-decoration: none;
+}
+
+.payment__section {
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    padding: 20px;
+    margin: 0 20px;
+}
+
+.payment__title {
+    flex: 0.2;
+}
+
+.payment__adress,
+.payment__items {
+    flex: 0.8;
+}
+
+.payment__detailes {
+    flex: 0.8;
+}
+
+.payment__detailes>form {
+    max-width: 400px;
+}
+
+.payment__detailes>h3 {
+    padding-bottom: 20px
+}
+
+.payment__detailes>form>div>button {
+    background: pink;
+    border-radius: 2px;
+    height: 30px;
+    border: 1px solid;
+    font-weight: bolder;
+    margin-top: 10px;
+    border-color: white;
+    color: #111;
+}
