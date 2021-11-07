@@ -11,7 +11,7 @@ app.use(cors({origin:true}));
 app.use(express.json());
 app.get('/', (request, response) => response.status(200).send('hello word'))
 app.get('/safa', (request, response) => response.status(200).send('love you'))
-app.post('/payments/create', async(request, response) => {
+app.post('/payments/create', async(request, response)=>{
     const total = request.query.total;
     console.log('payment request recieved', total)
     const paymentIntent = await stripe.paymentIntent.create({

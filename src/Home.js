@@ -9,7 +9,7 @@ function Home() {
         div className = "home_container" >
         <
         img className = "home_image"
-        src = "https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+        src = "https://th.bing.com/th/id/R.b82363bcf8819b4ae57c13b1270dfa98?rik=cydfZQZ3edzuGg&riu=http%3a%2f%2fwww.bjo-france.com%2fwp-content%2fuploads%2f2020%2f04%2fdiamonds-2142417_1280.jpg&ehk=z8Lu69wjXM1lnJ33q7l62CayWV5lOUkdC%2b%2fACMvfBEY%3d&risl=&pid=ImgRaw&r=0"
         alt = "" /
         >
 
@@ -17,17 +17,17 @@ function Home() {
         div className = "home_row" >
         <
         Product id = "12321341"
-        title = "The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-        price = { 11.96 }
+        title = "Ring"
+        price = { 250 }
         rating = { 5 }
-        image = "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg" /
+        image = "https://s7d4.scene7.com/is/image/GabrielCo/ER6687W44JJ-1" /
         >
         <
         Product id = "49538094"
-        title = "Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
+        title = "jewelry brasle diamond"
         price = { 239.0 }
         rating = { 4 }
-        image = "https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg" /
+        image = "https://th.bing.com/th/id/R.ac4a61333655bb70e17096cecc9b8a85?rik=bJPTw9ubBVkXsw&pid=ImgRaw&r=0" /
         >
         <
         /div>
@@ -36,24 +36,24 @@ function Home() {
         div className = "home_row" >
         <
         Product id = "4903850"
-        title = "Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
+        title = "fashion"
         price = { 199.99 }
         rating = { 3 }
-        image = "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg" /
+        image = "https://media.istockphoto.com/photos/fashion-jewellery-picture-id936849290" /
         >
         <
         Product id = "23445930"
-        title = "Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
+        title = "Necklace"
         price = { 98.99 }
         rating = { 5 }
-        image = "https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$" /
+        image = "https://th.bing.com/th/id/R.34454b90caf205ae6ff5a5a30189fe6f?rik=NA4zxyFqbD6tNw&pid=ImgRaw&r=0" /
         >
         <
         Product id = "3254354345"
-        title = "New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
+        title = "jewelry ne diamond"
         price = { 598.99 }
         rating = { 4 }
-        image = "https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg" /
+        image = "https://th.bing.com/th/id/R.4a602caaa48f25bf75b6c85db491a81b?rik=TIyp4Kx1ZTymBQ&pid=ImgRaw&r=0" /
         >
         <
         /div>
@@ -62,10 +62,10 @@ function Home() {
         div className = "home_row" >
         <
         Product id = "90829332"
-        title = "Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
+        title = "jewelry ne diamond"
         price = { 1094.98 }
         rating = { 4 }
-        image = "https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg" /
+        image = "https://th.bing.com/th/id/OIP.oavCsP_JZsBmGniXoPHu-QHaHa?pid=ImgDet&rs=1" /
         >
         <
         /div> < /
