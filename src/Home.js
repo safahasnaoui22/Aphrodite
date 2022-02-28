@@ -9,7 +9,7 @@ function Home() {
         div className = "home_container" >
         <
         img className = "home_image"
-        src = "https://th.bing.com/th/id/R.b82363bcf8819b4ae57c13b1270dfa98?rik=cydfZQZ3edzuGg&riu=http%3a%2f%2fwww.bjo-france.com%2fwp-content%2fuploads%2f2020%2f04%2fdiamonds-2142417_1280.jpg&ehk=z8Lu69wjXM1lnJ33q7l62CayWV5lOUkdC%2b%2fACMvfBEY%3d&risl=&pid=ImgRaw&r=0"
+        src = "https://img.static-rmg.be/a/view/q75/w/h/2171972/gettyimages-867341470-jpg.jpg"
         alt = "" /
         >
 
@@ -17,17 +17,17 @@ function Home() {
         div className = "home_row" >
         <
         Product id = "12321341"
-        title = "Ring"
+        title = "DrEsS"
         price = { 250 }
-        rating = { 5 }
-        image = "https://s7d4.scene7.com/is/image/GabrielCo/ER6687W44JJ-1" /
+        rating = { 0 }
+        image = "https://th.bing.com/th/id/OIP.yHi86ts-LqEMV_EDjxZvKQHaLG?pid=ImgDet&rs=1" /
         >
         <
         Product id = "49538094"
-        title = "jewelry brasle diamond"
+        title = "DrEsS"
         price = { 239.0 }
-        rating = { 4 }
-        image = "https://th.bing.com/th/id/R.ac4a61333655bb70e17096cecc9b8a85?rik=bJPTw9ubBVkXsw&pid=ImgRaw&r=0" /
+        rating = { 0 }
+        image = "https://simages.tbdress.com/Upload/Image/2015/42/510-680/a73437cb-f0f0-4e62-890f-92e5c543e464.jpg" /
         >
         <
         /div>
@@ -36,24 +36,24 @@ function Home() {
         div className = "home_row" >
         <
         Product id = "4903850"
-        title = "fashion"
+        title = "Talon"
         price = { 199.99 }
-        rating = { 3 }
-        image = "https://media.istockphoto.com/photos/fashion-jewellery-picture-id936849290" /
+        rating = { 0 }
+        image = "https://th.bing.com/th/id/R.bdfa6a64bd57428495e526d8d31ba1ec?rik=NZRM96w9S6%2fi8Q&pid=ImgRaw&r=0" /
         >
         <
         Product id = "23445930"
-        title = "Necklace"
+        title = "PArfuM"
         price = { 98.99 }
-        rating = { 5 }
-        image = "https://th.bing.com/th/id/R.34454b90caf205ae6ff5a5a30189fe6f?rik=NA4zxyFqbD6tNw&pid=ImgRaw&r=0" /
+        rating = {0 }
+        image = "https://th.bing.com/th/id/OIP.CkWp_-BpJAxI1a4c05kH5wHaFd?pid=ImgDet&rs=1" /
         >
         <
         Product id = "3254354345"
-        title = "jewelry ne diamond"
+        title = "sac "
         price = { 598.99 }
-        rating = { 4 }
-        image = "https://th.bing.com/th/id/R.4a602caaa48f25bf75b6c85db491a81b?rik=TIyp4Kx1ZTymBQ&pid=ImgRaw&r=0" /
+        rating = { 0 }
+        image = "https://th.bing.com/th/id/R.54e2291b03fa604370680abf8fe23037?rik=La1SFPg4IJ7GUw&pid=ImgRaw&r=0" /
         >
         <
         /div>
@@ -62,10 +62,10 @@ function Home() {
         div className = "home_row" >
         <
         Product id = "90829332"
-        title = "jewelry ne diamond"
+        title = "Sac "
         price = { 1094.98 }
-        rating = { 4 }
-        image = "https://th.bing.com/th/id/OIP.oavCsP_JZsBmGniXoPHu-QHaHa?pid=ImgDet&rs=1" /
+        rating = { 0 }
+        image = "https://th.bing.com/th/id/R.14e407d6320e2eb8f7398056df058e36?rik=jVW4tUwnobJC%2fA&riu=http%3a%2f%2fwww.ruthschoice.be%2fgarcon%2fburberry-sac-femme-nouvelle-collection---5.jpg&ehk=tU1Fc8uhYylZ2I%2fQR5FdNT9F53zrSSlk8zzLJ7LWm98%3d&risl=&pid=ImgRaw&r=0" /
         >
         <
         /div> < /

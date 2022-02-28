@@ -8,7 +8,7 @@
     width: 100%;
     max-height: 400px;
     min-width: 100px;
-    background-color: white;
+    background-color:#eceae9;
     z-index: 1;
 }
 
@@ -17,18 +17,21 @@
 }
 
 .product>img {
-    max-height: 200px;
+    max-height: 300px;
     width: 100%;
     object-fit: contain;
     margin-bottom: 15px;
 }
 
 .product>button {
-    background: #c9a2a2;
+    background: #c762a0;
+    width: 250px;
+    height: 200px;
     border: 1px solid;
     margin-top: 10px;
     border-color: #000000 #000000 #000000;
     color: #111;
+    border-radius: 50% ,50% , 0% ;
 }
 
 .product__price {
@@ -37,5 +40,20 @@
 
 .product__info {
     height: 100px;
-    margin-bottom: 15px;
+    margin-bottom: 3px;
+    width: 100px;
+    font-size: 24px;
+
+    text-align: center;
+    
+   
+    color: #111;
+     font-family: 'Open Sans', sans-serif; 
+    
+  
+      line-height: 32px; 
+    
+       
+   
+  
 }
